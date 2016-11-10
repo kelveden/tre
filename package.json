@@ -1,8 +1,8 @@
 {
-  "name": "trl",
+  "name": "tre",
   "version": "1.0.0",
   "bin": {
-    "trl": "./lib/trl.js"
+    "tre": "./lib/tre.js"
   },
   "author": "kelveden@gmail.com",
   "dependencies": {
